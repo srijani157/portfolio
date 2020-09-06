@@ -1,0 +1,108 @@
+/*.App {
+  text-align: center;
+  background: url("./images/back.jpg");
+ background-position: center; 
+  background-repeat: no-repeat;   background-size: cover;
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+}*/
+.App{
+   background-color: gray;
+}
+.parallax {
+  /* The image used */
+  background: url("./images/back1.jpg");
+
+  /* Full height */
+  height: 100vh; 
+  width: 100vw !important;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.intro{
+  color: #fffefe;
+    padding-top: 20%;
+}
+.cont{
+  height:100%;
+  background-color: #3c4349;
+  color: white;
+
+}
+.headings{
+  /*border-bottom:  2px solid blue;
+  margin-left:  10%;
+  margin-right:  10%;*/
+  font-weight: 700;
+}
+.cont1{
+  height:100%;
+  background-color: #2f3236;
+  color: white;
+   margin: 0;
+  padding-top: 2%;
+ /* background: rgb(230,230,230);
+  
+  color: rgb(50,50,50);*/
+  /*margin-top: 11px;*/
+  font-family: 'Open Sans', sans-serif;
+  font-size: 112.5%;
+  line-height: 1.6em;
+
+}
+.cont2{
+  height:100%;
+  background-color: #3c4349; 
+  color: white;
+   padding-top: 2%;
+}
+.cont3{
+  height:100%;
+  background-color: #2f3236;
+  color: white;
+  /* margin: 0;
+  padding: 0;*/
+ /* background: rgb(230,230,230);
+  
+  color: rgb(50,50,50);*/
+  /*margin-top: 11px;*/
+
+}
+.cont4{
+  height:100%;
+  background-color: #3c4349; 
+  color: white;
+   padding-top: 3%;
+   padding-bottom: 4em;
+}
+.also{
+  list-style-type:none;
+  padding-left: 0;
+  display: inline-flex;
+}
+.also-li{
+ margin-right: 5em;
+}
+.footer {
+   /*position: fixed;*/
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #343a40 ;
+   color: white;
+   padding:  0.5%;
+   text-align: center;
+}
+
+@media only screen and (max-width: 580px) {
+  .also{
+    display: inline-block;
+  }
+  .also-li{
+    margin-right: 0;
+  }
+}

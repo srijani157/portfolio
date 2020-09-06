@@ -1,0 +1,63 @@
+.skills{
+	width: 100%;
+    max-width: 85% !important;
+    padding-top: 4%;
+    padding-bottom: 5%;
+}
+svg{
+	width: 80%;
+}
+.sk{
+	max-width: 100%;
+    width: 85%;
+	background-color: #b0b0b6!important;
+	border-radius: 2em;
+	margin: 2em;
+	margin-left: auto;
+	/*margin-top: 2em;*/
+}
+.prog{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    user-select: none;
+}
+.score{
+	color:black;
+	position: absolute;
+	font-weight: 700;
+	font-size: 2em;
+    top: 40%;
+    left: 38%;
+}
+.colm1{
+	align-self: center;
+}
+.sk-card{
+	color: black;
+}
+@media only screen and (max-width: 1210px) {
+	.sk{
+		width: 100%;
+	}
+}
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+  .col-custm{
+    padding-left: 25% !important;
+    padding-right: 25% !important;
+  }
+}
+@media only screen and (max-width: 345px) {
+  svg{
+  	margin-right: 2em;
+  }
+  .score{
+  	top: 40%;
+    left: 33%;
+  }
+}

@@ -1,0 +1,44 @@
+.about{
+	 max-width: 100% !important;
+	width: 100%;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+.rw-2{
+	padding-right: 5%;
+}
+.img-ab{
+	width: 55%;
+    border-radius: 50%;
+}
+.btn-1{
+	padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 1em;
+    margin-top: 1%;
+    background: #6060dd;
+    color: white;
+}
+.colm1{
+	align-self: center;
+	border: 2px solid;
+	padding: 4% ;
+	border-radius: 	3em;
+}
+
+@media only screen and (max-width: 767px) {
+	.rw-2{
+		padding-right: 0;
+	}
+	.colm1{
+	align-self: center;
+	border: none ;
+	}
+}
+@media only screen and (min-width: 1450px) {
+	.about-p{
+		font-size: 1.3em;
+	}
+}
