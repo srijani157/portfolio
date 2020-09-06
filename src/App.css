@@ -16,7 +16,6 @@
 
   /* Full height */
   height: 100vh; 
-  width: 100vw !important;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
