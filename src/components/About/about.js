@@ -5,7 +5,7 @@ import './about.css';
 const About = () =>{
   return(
   		<div class="container about">
-  		<h1 className="headings" style={{fontSize:"3em",marginBottom:"4%"}}>About Me</h1>
+  		<h1 className="headings" style={{fontSize:"2.5em",marginBottom:"4%"}}>About Me</h1>
 		  <div class="row rw-2">
 		    <div class=" col-sm-12 col-md-6">
 		      	<div class="conatiner abt-img" >

@@ -12,7 +12,7 @@ const Skills = () =>{
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 				<div class="card sk ">
 				  <div class="card-body">
-				    <h2 class="card-title sk-card">C++</h2>
+				    <h3 class="card-title sk-card">C++</h3>
 				    <ProgressBar className="prog"
 					    progress={80}
 					    radius={100}
@@ -31,7 +31,7 @@ const Skills = () =>{
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 		      <div class="card sk">
 				  <div class="card-body">
-				    <h2 class="card-title sk-card">C</h2>
+				    <h3 class="card-title sk-card">C</h3>
 				    <ProgressBar className="prog"
 					    progress={80}
 					    radius={100}
@@ -50,7 +50,7 @@ const Skills = () =>{
 		  <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 		      <div class="card sk">
 				  <div class="card-body">
-				    <h2 class="card-title sk-card">Java</h2>
+				    <h3 class="card-title sk-card">Java</h3>
 				    <ProgressBar className="prog"
 					    progress={65}
 					    radius={100}
@@ -69,7 +69,7 @@ const Skills = () =>{
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 				<div class="card sk">
 				  <div class="card-body">
-				    <h2 class="card-title sk-card">HTML/CSS</h2>
+				    <h3 class="card-title sk-card">HTML/CSS</h3>
 				    
 				    <ProgressBar className="prog"
 					    progress={90}
@@ -89,7 +89,7 @@ const Skills = () =>{
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 		      <div class="card sk">
 				  <div class="card-body">
-				    <h2 class="card-title sk-card">Bootstrap</h2>
+				    <h3 class="card-title sk-card">Bootstrap</h3>
 				    <ProgressBar className="prog"
 					    progress={90}
 					    radius={100}
@@ -108,7 +108,7 @@ const Skills = () =>{
 		  <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 		      <div class="card sk">
 				  <div class="card-body">
-				    <h2 class="card-title sk-card">React Js</h2>
+				    <h3 class="card-title sk-card">React Js</h3>
 				    <ProgressBar className="prog"
 					    progress={70}
 					    radius={100}
@@ -127,7 +127,7 @@ const Skills = () =>{
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 				<div class="card sk">
 				  <div class="card-body">
-				    <h2 class="card-title sk-card">Oracle SQL</h2>
+				    <h3 class="card-title sk-card">Oracle SQL</h3>
 				    
 				    <ProgressBar className="prog"
 					    progress={75}
@@ -147,7 +147,7 @@ const Skills = () =>{
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 		      <div class="card sk">
 				  <div class="card-body">
-				    <h2 class="card-title sk-card">PostgreSQL</h2>
+				    <h3 class="card-title sk-card">PostgreSQL</h3>
 				    <ProgressBar className="prog"
 					    progress={70}
 					    radius={100}
@@ -166,7 +166,7 @@ const Skills = () =>{
 		  <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 		      <div class="card sk">
 				  <div class="card-body">
-				    <h2 class="card-title sk-card">Node.js</h2>
+				    <h3 class="card-title sk-card">Node.js</h3>
 				    <ProgressBar className="prog"
 					    progress={60}
 					    radius={100}
@@ -186,11 +186,11 @@ const Skills = () =>{
 
 		</div>
 		<div className="cont3" style={{paddingTop:"1%"}}>
-          <h1 className="headings" style={{marginBottom:"2%"}}>Also familiar with:</h1>
+          <h2 className="headings" style={{marginBottom:"2%"}}>Also familiar with:</h2>
           <ul className="also">
-            <li className="also-li"><h3>JavaScript</h3></li>
-            <li className="also-li"><h3>Python</h3></li>
-            <li className="also-li1"><h3>Git</h3></li>
+            <li className="also-li"><h4>JavaScript</h4></li>
+            <li className="also-li"><h4>Python</h4></li>
+            <li className="also-li1"><h4>Git</h4></li>
             
           </ul>
       </div>
