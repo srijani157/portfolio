@@ -8,7 +8,7 @@ const Skills = () =>{
 	  <div>
 		<div class="container skills">
 		  <div class="row">
-		    <div class=" col-sm-12 col-md-6 col-lg-4">
+		    <div class=" col-sm-12 col-md-6 col-lg-4 col-sk">
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 				<div class="card sk ">
 				  <div class="card-body">
@@ -27,7 +27,7 @@ const Skills = () =>{
 				</div>
 				</Tilt>
 		    </div>
-		    <div class="col-sm-12 col-md-6 col-lg-4">
+		    <div class="col-sm-12 col-md-6 col-lg-4 col-sk">
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 		      <div class="card sk">
 				  <div class="card-body">
@@ -46,7 +46,7 @@ const Skills = () =>{
 				</div>
 				</Tilt>
 		  </div>
-		  <div class="col-sm-12 col-md-6 col-lg-4">
+		  <div class="col-sm-12 col-md-6 col-lg-4 col-sk">
 		  <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 		      <div class="card sk">
 				  <div class="card-body">
@@ -65,7 +65,7 @@ const Skills = () =>{
 				</div>
 				</Tilt>
 		    </div>
-		    <div class=" col-sm-12 col-md-6 col-lg-4">
+		    <div class=" col-sm-12 col-md-6 col-lg-4 col-sk">
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 				<div class="card sk">
 				  <div class="card-body">
@@ -85,7 +85,7 @@ const Skills = () =>{
 				</div>
 				</Tilt>
 		    </div>
-		    <div class="col-sm-12 col-md-6 col-lg-4">
+		    <div class="col-sm-12 col-md-6 col-lg-4 col-sk">
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 		      <div class="card sk">
 				  <div class="card-body">
@@ -104,7 +104,7 @@ const Skills = () =>{
 				</div>
 				</Tilt>
 		  </div>
-		  <div class="col-sm-12 col-md-6 col-lg-4">
+		  <div class="col-sm-12 col-md-6 col-lg-4 col-sk">
 		  <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 		      <div class="card sk">
 				  <div class="card-body">
@@ -123,7 +123,7 @@ const Skills = () =>{
 				</div>
 				</Tilt>
 		    </div>
-		    <div class=" col-sm-12 col-md-6 col-lg-4">
+		    <div class=" col-sm-12 col-md-6 col-lg-4 col-sk">
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 				<div class="card sk">
 				  <div class="card-body">
@@ -143,7 +143,7 @@ const Skills = () =>{
 				</div>
 				</Tilt>
 		    </div>
-		    <div class="col-sm-12 col-md-6 col-lg-4">
+		    <div class="col-sm-12 col-md-6 col-lg-4 col-sk">
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 		      <div class="card sk">
 				  <div class="card-body">
@@ -162,7 +162,7 @@ const Skills = () =>{
 				</div>
 				</Tilt>
 		  </div>
-		  <div class="col-sm-12 col-md-12 col-lg-4 col-custm">
+		  <div class="col-sm-12 col-md-12 col-lg-4 col-custm col-sk">
 		  <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 		      <div class="card sk">
 				  <div class="card-body">

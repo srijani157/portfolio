@@ -39,7 +39,7 @@ class App extends Component{
       
       <footer>
           <div class="footer">
-            <h4><FontAwesomeIcon icon={faStar} /></h4>
+            <h4 className="star"><FontAwesomeIcon icon={faStar} /></h4>
           </div>
       </footer>
       </div>
