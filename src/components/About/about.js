@@ -16,7 +16,7 @@ const About = () =>{
 		      <h2 style={{marginBottom:"4%"}}>Srijani Sarkar</h2>
 		      <p className="about-p">An enthusiastic fresher who is hard working and highly motivated and eager to learn new technologies and methodologies. Has the ability to work as  individual as well as in a group.
 		        </p>
-		        <a href="https://drive.google.com/file/d/1rygDhuI3ckJwWu6tm6osr2jWcZOUhfex/view?usp=sharing"><button className="btn-1">Download CV</button></a>
+		        <a href="https://drive.google.com/file/d/13ApuVpCplEe4CLp4G26-RUnFysYPtyCW/view?usp=sharing"><button className="btn-1">Download CV</button></a>
 		    </div>
 		  </div>
 		</div>

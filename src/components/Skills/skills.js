@@ -46,25 +46,6 @@ const Skills = () =>{
 				</div>
 				</Tilt>
 		  </div>
-		  <div class="col-sm-12 col-md-6 col-lg-4 col-sk">
-		  <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
-		      <div class="card sk">
-				  <div class="card-body">
-				    <h3 class="card-title sk-card">Java</h3>
-				    <ProgressBar className="prog"
-					    progress={65}
-					    radius={100}
-					    strokeColor={"#1575e8"}
-					    trackStrokeColor={"white"}
-					>
-					<div className="indicator">
-		                <div className="score">65%</div>
-		            </div>
-		            </ProgressBar>
-				  </div>
-				</div>
-				</Tilt>
-		    </div>
 		    <div class=" col-sm-12 col-md-6 col-lg-4 col-sk">
 		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
 				<div class="card sk">
@@ -143,53 +124,14 @@ const Skills = () =>{
 				</div>
 				</Tilt>
 		    </div>
-		    <div class="col-sm-12 col-md-6 col-lg-4 col-sk">
-		    <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
-		      <div class="card sk">
-				  <div class="card-body">
-				    <h3 class="card-title sk-card">PostgreSQL</h3>
-				    <ProgressBar className="prog"
-					    progress={70}
-					    radius={100}
-					    strokeColor={"#08053b"}
-					    trackStrokeColor={"white"}
-					>
-					<div className="indicator">
-		                <div className="score">70%</div>
-		            </div>
-		            </ProgressBar>
-				  </div>
-				</div>
-				</Tilt>
-		  </div>
-		  <div class="col-sm-12 col-md-12 col-lg-4 col-custm col-sk">
-		  <Tilt className="Tilt br2 shadow-2" options={{ max : 25 }} >
-		      <div class="card sk">
-				  <div class="card-body">
-				    <h3 class="card-title sk-card">Node.js</h3>
-				    <ProgressBar className="prog"
-					    progress={60}
-					    radius={100}
-					    strokeColor={"#073b74"}
-					    trackStrokeColor={"white"}
-					>
-					<div className="indicator">
-		                <div className="score">60%</div>
-		            </div>
-		            </ProgressBar>
-				  </div>
-				</div>
-				</Tilt>
-		    </div>
-		 
-		   </div>
+		 </div>
 
 		</div>
 		<div className="cont3" style={{paddingTop:"1%"}}>
-          <h2 className="headings" style={{marginBottom:"2%"}}>Also familiar with:</h2>
+          <h2 className="headings" style={{marginBottom:"2%"}}>Also familiar with (just the basics):</h2>
           <ul className="also">
             <li className="also-li"><h4>JavaScript</h4></li>
-            <li className="also-li"><h4>Python</h4></li>
+
             <li className="also-li1"><h4>Git</h4></li>
             
           </ul>
@@ -198,3 +140,5 @@ const Skills = () =>{
 	);
 }
 export default Skills;
+
+
